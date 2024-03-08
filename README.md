@@ -1,2 +1,2 @@
 # AuthentiText
-AuthentiText: Paraphrase Detection Toolkit for Academic Integrity
+AuthentiText: Paraphrase Detection Toolkit for Academic Integrity.
